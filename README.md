@@ -18,4 +18,4 @@ Herramientas:
 
 Vista previa: 
 
-![index]()
+![index](https://raw.githubusercontent.com/Eduardo-Mtz-Jrz/Productos/refs/heads/main/img/img.webp)
