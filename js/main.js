@@ -32,9 +32,8 @@ function createCards(prods) {
         row = container.getElementsByClassName("row")[0];
     }
     
-    // Configurar el grid (4 tarjetas por fila en desktop)
     row.className = "row row-cols-1 row-cols-md-2 row-cols-lg-4 g-3";
-    row.innerHTML = ""; // Limpiar contenido previo
+    row.innerHTML = ""; 
     for (let i = 0; i < prods.length; i++) {
         const product = prods[i];
         row.innerHTML += 
