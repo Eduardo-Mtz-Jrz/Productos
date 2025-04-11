@@ -1,2 +1,21 @@
 # Productos
-Uso de los método .fetch( ) mediante la API de la fakestoreapi.
+
+---
+
+Implementación del método Fetch.
+
+---
+
+Herramientas:
+- HTML
+- JS
+- Bootstrap
+- Promesas
+- Fetch
+- Fakestoreapi.
+
+---
+
+Vista previa: 
+
+![index]()
